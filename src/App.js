@@ -4,6 +4,8 @@ function App() {
   return (
     <div id="container">
       <div id="nav">
+        <div></div>
+        <p id="owner-text">000의 익명 메시지</p>
         <img src="./img/circle.png" id="circle"/>
       </div>
       <div id="post-container">
