@@ -7,7 +7,7 @@ import Main from './Main.js';
 function App() {
   return (
     <div>
-          <Route path="/" component={Main}/>
+          <Route path="/" exact={true} component={Main}/>
           <Route path="/Post" component={Post}/>
     </div>
     // <div id="container">
