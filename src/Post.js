@@ -1,38 +1,32 @@
-import './App.css';
+import './Post.css';
 
 
 function App() {
   return (
-    <div id="container">
-      <div id="nav">
-        <p id="owner-text">000의 익명 메시지</p>
-        <img src="./img/circle.png" id="circle"/>
+    <div id="container1">
+
+      <div id="post-container">
+        <div id="post-color">
+          <img class="post-color-circle" src="./img/circle1.png"/>
+          <img class="post-color-circle" src="./img/circle2.png"/>
+          <img class="post-color-circle" src="./img/circle3.png"/>
+          <img class="post-color-circle" src="./img/circle4.png"/>
+          <img class="post-color-circle" src="./img/circle5.png"/>
+          <img class="post-color-circle" src="./img/circle6.png"/>
+        </div>
+
+        <div id="Message-board">
+          <p id="Post-Message">김치볶음밥 먹구 싶당 ㅎㅎ</p>
+          <img class="post-Message-board" src="./img/board.png"/>
+        </div>
+
+        <div id="Post-Button">
+          <p id="Post-Button_text">올리기</p>
+          <img class="post-button-img"src="./img/PostButton.png"/>
+        </div>
       </div>
-      <div id="post-add-container">
-        <div id="post-container">
-            <img class="post" src="./img/post1.png"/>
-            <img class="post" src="./img/post2.png"/>
-            <img class="post" src="./img/post3.png"/>
-            <img class="post" src="./img/post4.png"/>
-            <img class="post" src="./img/post5.png"/>
-            <img class="post" src="./img/post6.png"/>
-            <img class="post" src="./img/post1.png"/>
-            <img class="post" src="./img/post2.png"/>
-            <img class="post" src="./img/post3.png"/>
-            <img class="post" src="./img/post4.png"/>
-            <img class="post" src="./img/post5.png"/>
-            <img class="post" src="./img/post6.png"/>
-            <img class="post" src="./img/post1.png"/>
-            <img class="post" src="./img/post2.png"/>
-            <img class="post" src="./img/post3.png"/>
-            <img class="post" src="./img/post4.png"/>
-            <img class="post" src="./img/post5.png"/>
-            <img class="post" src="./img/post6.png"/>
-            <img class="post" src="./img/post5.png"/>
-            <img class="post" src="./img/post6.png"/>
-          </div>
-          <img src="./img/add.png" id="add-button"/>
-      </div>
+      
+
     </div>
   );
 }
