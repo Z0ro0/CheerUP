@@ -1,24 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    <img class="post" src="./img/post1.png"/>
+    <img class="post" src="./img/post2.png"/>
+    <img class="post" src="./img/post3.png"/>
+    <img class="post" src="./img/post4.png"/>
+    <img class="post" src="./img/post5.png"/>
+    <img class="post" src="./img/post6.png"/>
+    <img class="post" src="./img/post1.png"/>
+    <img class="post" src="./img/post2.png"/>
+    <img class="post" src="./img/post3.png"/>
+    <img class="post" src="./img/post4.png"/>
+    <img class="post" src="./img/post5.png"/>
+    <img class="post" src="./img/post6.png"/>
+    <img class="post" src="./img/post1.png"/>
+    <img class="post" src="./img/post2.png"/>
+    <img class="post" src="./img/post3.png"/>
+    <img class="post" src="./img/post4.png"/>
+    <img class="post" src="./img/post5.png"/>
+    <img class="post" src="./img/post6.png"/>
     </div>
+    
   );
 }
 
