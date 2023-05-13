@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+#container{
+  background-color: #FFFFF5;
+}
+
+#nav{
+  background-color: #FFE5E3;
+  padding: 1%;
+}
+#circle{
+  
+}
+
+
+#post-container{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 5%;
+}
+.post{
+  padding: 1%;
+}
