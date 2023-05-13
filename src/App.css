@@ -68,12 +68,26 @@
   height: 30px;
 }
 
+#post-add-container{
+  position: relative;
+  display: flex;
+  justify-content: end;
+}
 
 #post-container{
   margin-left: 20%;
   margin-right: 20%;
   margin-top: 2%;
+  position: absolute;
 }
 .post{
   padding: 1%;
+}
+
+
+#add-button{
+  position: absolute;
+  position: fixed;
+  margin-top: 550px;
+  margin-right: 3%;
 }
