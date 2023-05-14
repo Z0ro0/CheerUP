@@ -4,14 +4,11 @@
     font-weight: normal;
     font-style: normal;
   }
-  
-#container1{
+
+html{
     background-color: #FFFFF5;
 }
 
-#post-container{
-    width: 80%;
-}
 
 #post-color{
     display: flex;
