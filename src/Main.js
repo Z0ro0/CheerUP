@@ -9,43 +9,43 @@ function App() {
         <img src="./img/circle.png" id="circle"/>
       </div>
       <div id="post-add-container">
-        <div id="post-container">
-          <div class="post">
-            <p class="post-text">응원할게!</p>
-            <img class="post-img" src="./img/post1.png"/>
-          </div>
-          <div class="post">
-            <p class="post-text">응원할게!</p>
-            <img class="post-img" src="./img/post1.png"/>
-          </div>
-          <div class="post">
-            <p class="post-text">응원할게!</p>
-            <img class="post-img" src="./img/post1.png"/>
-          </div>
-          <div class="post">
-            <p class="post-text">응원할게!</p>
-            <img class="post-img" src="./img/post1.png"/>
-          </div>
-            <img class="post-img" src="./img/post1.png"/>
-            <img class="post-img" src="./img/post2.png"/>
-            <img class="post-img" src="./img/post3.png"/>
-            <img class="post-img" src="./img/post4.png"/>
-            <img class="post-img" src="./img/post5.png"/>
-            <img class="post-img" src="./img/post6.png"/>
-            <img class="post-img" src="./img/post1.png"/>
-            <img class="post-img" src="./img/post2.png"/>
-            <img class="post-img" src="./img/post3.png"/>
-            <img class="post-img" src="./img/post4.png"/>
-            <img class="post-img" src="./img/post5.png"/>
-            <img class="post-img" src="./img/post6.png"/>
-            <img class="post-img" src="./img/post1.png"/>
-            <img class="post-img" src="./img/post2.png"/>
-            <img class="post-img" src="./img/post3.png"/>
-            <img class="post-img" src="./img/post4.png"/>
-            <img class="post-img" src="./img/post5.png"/>
-            <img class="post-img" src="./img/post6.png"/>
-            <img class="post-img" src="./img/post5.png"/>
-            <img class="post-img" src="./img/post6.png"/>
+          <div id="post-container">
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
+            <div class="post">
+              <img class="post-img" src="./img/post1.png"/>
+            </div>
           </div>
           <img src="./img/add.png" id="add-button"/>
       </div>
